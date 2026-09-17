@@ -8,10 +8,8 @@
 # Usage: python3 lab1c.py
 
 #TO-DO 1:
-# import math module.
 import math
-'radius' 
-# Create a variable called 'radius' and take its value form user.
-# Convert the variable to integer using int()
-# use the contant pi form math module and compute the area of the circle using the variable 'radius'
-area=math.pi*r*r
+r=input("Enter a radius value: ")
+r=iint(r)
+area=math.pi*(r**2)
+print("The area of circle is",area,"sq units."
