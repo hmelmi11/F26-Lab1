@@ -7,7 +7,6 @@
 # Purpose: Use string methods and f-string formating.
 # Usage: python3 lab1c.py
 
-#TO-DO 1:
 import math
 r=input("Enter a radius value: ")
 r=iint(r)
