@@ -12,6 +12,7 @@ print(type(num1))
 print(type (num2))
 num1=int(num1)
 num2int(num2)
+
 num1=int(num1)
 num2=int(num2)
 print("Python")
