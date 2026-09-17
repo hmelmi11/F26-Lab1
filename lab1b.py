@@ -13,15 +13,18 @@ num1=input("Please enter a num1")
 num2=input("Please enter another num for num2")
 print(type(num1))
 print(type (num2))
+num1=int(num1)
+num2int(num2)
 # Convert the values to integers using int() function
 num1=int(num1)
 num2=int(num2)
 # TO-DO 2:
 # Perform all arithmetic oeprations as outlined in the description in README.md file, and print in the required format.
-print("num1 + num ", num1+num2)
-print("num1-num2 = ",num1-num2)
-print("num1*num2 = ", num1*num2)
-#num1 ** num= ....
-#num1 / num = ....
-#num1 // num = ...
-#num1 % num = ...
+print("Python")
+print("num1 + num2 =", (num1+num2))
+print("num1 - num2 =", (num1-num2))
+print("num1 * num2 =", (num1*num2))
+print("num1 ** num2 =", (num1 **num2))
+print("num1 / num2 =", (num1 / num2))
+print("num1 // num2 =", (num1 // num2))
+print("num1 % num2 =",(num1%num2))
